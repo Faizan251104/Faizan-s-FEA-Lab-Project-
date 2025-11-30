@@ -6,7 +6,7 @@ This repository contains the report and presentation for a basic Static and Tran
 ## Files Included
 - **ANSYS_Report.docx** – Analysis report  
 - **ANSYS_Presentation.pptx** – Presentation slides  
-- **Screenshots** – Images of geometry, mesh, loads, and results (if added)
+- **Screenshots** – Images of geometry, mesh, loads, and results 
 
 ## Description
 A pentagon-shaped 3D model was created and analyzed under:
